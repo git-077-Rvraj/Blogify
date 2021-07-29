@@ -15,13 +15,18 @@ A Full-stack blog application implemented in MERN Stack with User authentication
 
 You can obtain the MONGO_URI after create a collectoin on [mongodb atlas](https://www.mongodb.com/cloud/atlas). For the GOOGLE_CLIENT_ID, you will need to go through the Google developer console accounts page. 
 
-## Some Screenshots
+## Demo
 
 Here are screenshots of the of the woking application
 
 <p align="center">
 
  <a href="https://ibb.co/QftcRcg"><img src="https://i.ibb.co/W6j3w3h/Screenshot-436.png" alt="Screenshot-436" border="0"></a>
+    <a href="https://ibb.co/mNF3tN3"><img src="https://i.ibb.co/J3F9239/Screenshot-440.png" alt="Screenshot-440" border="0"></a>
+    <a href="https://ibb.co/D93rb9N"><img src="https://i.ibb.co/bspb3sx/Screenshot-433.png" alt="Screenshot-433" border="0"></a>
+    <a href="https://ibb.co/pXMF6kX"><img src="https://i.ibb.co/dKVYsHK/Screenshot-435.png" alt="Screenshot-435" border="0"></a>
+    <a href="https://ibb.co/5MF4c48"><img src="https://i.ibb.co/h7f989W/Screenshot-438.png" alt="Screenshot-438" border="0"></a>
+    <a href="https://ibb.co/QM5kBMw"><img src="https://i.ibb.co/HqJCvq8/Screenshot-439.png" alt="Screenshot-439" border="0"></a>
   
 </p>
 
@@ -41,6 +46,22 @@ Here are screenshots of the of the woking application
 -  
 -   Each comment has a unique jdenticon icon to represent the user who commented anonymously
 
+## Technologies Used
+
+Some of the technologies used in the development of this web application are as follow:
+
+-   [MongoDB Atlas](https://www.mongodb.com/cloud/atlas): It provides a free cloud service to store MongoDB collections.
+-   [React.js](https://reactjs.org/): A JavaScript library for building user interfaces.
+-   [Node.js](https://nodejs.org/en/): A runtime environment to help build fast server applications using JS.
+-   [Express.js](https://expressjs.com/): A popular Node.js framework to build scalable server-side for web applications.
+-   [Mongoose](https://mongoosejs.com/): An ODM(Object Data Modelling)library for MongoDB and Node.js
+-   [Heroku](http://heroku.com/): A platform(PaaS) to deploy full stack web applications for free.
+-   [JSON Web Tokens or JWTs](https://jwt.io/): A standard to securely authenticate HTTP requests
+-   [Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/): A popular framework for building responsive, mobile-first sites.
+
+### Responsive Design
+
+The Bootstrap classes allowed for the design of the app to become a responsive onw, without many custom CSS media queries. The app design is minimal by design, and the emphasis is laid on the blog posts itself, rather than the design of the app's compnents. The app also has PWA support due to React's ability to activate service workers to cache the required data, as set by the developer. It is not an ideal type of app structure to facilitate the PWA design, but it can work to cache specific blog posts incase it was already accessed beforehand.
 
 
 ### Handling user authentication and user authorization
@@ -52,9 +73,6 @@ I initially intended on using the [authentication token strategy](http://www.pas
 
 Although it may seem obvious that the editor used in a blogging platform needs to support multiple text editing options, it was a little challenging to find the appropriate solution to fit the needs of the current project. There were many WYSIWYG editors which provided sufficient documentation too, but in the end, the most optimal solution to the issue was to use the [CKeditor rich HTML editor](https://ckeditor.com/ckeditor-5/)'s React component implementation, with a custom toolbar configuration. The other options included [react-markdown-editor-lite](https://www.npmjs.com/package/react-markdown-editor-lite) and the [react-draft-wysiwyg](https://www.npmjs.com/package/react-draft-wysiwyg)
 
-### Responsive Design
-
-The Bootstrap classes allowed for the design of the app to become a responsive onw, without many custom CSS media queries. The app design is minimal by design, and the emphasis is laid on the blog posts itself, rather than the design of the app's compnents. The app also has PWA support due to React's ability to activate service workers to cache the required data, as set by the developer. It is not an ideal type of app structure to facilitate the PWA design, but it can work to cache specific blog posts incase it was already accessed beforehand.
 
 ### Dealing with an anonymous comment section
 
@@ -71,17 +89,6 @@ The choice to make the comment section anonymous was a deliberate design choice,
 
 Any more suggestions are always welcome in the PRs!
 
-## Technologies Used
 
-Some of the technologies used in the development of this web application are as follow:
-
--   [MongoDB Atlas](https://www.mongodb.com/cloud/atlas): It provides a free cloud service to store MongoDB collections.
--   [React.js](https://reactjs.org/): A JavaScript library for building user interfaces.
--   [Node.js](https://nodejs.org/en/): A runtime environment to help build fast server applications using JS.
--   [Express.js](https://expressjs.com/): A popular Node.js framework to build scalable server-side for web applications.
--   [Mongoose](https://mongoosejs.com/): An ODM(Object Data Modelling)library for MongoDB and Node.js
--   [Heroku](http://heroku.com/): A platform(PaaS) to deploy full stack web applications for free.
--   [JSON Web Tokens or JWTs](https://jwt.io/): A standard to securely authenticate HTTP requests
--   [Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/): A popular framework for building responsive, mobile-first sites.
 
 It can be noted that React can be swapped out in favor of any other popular frontend framework like Vue, Angular, Svelte or Ember. The server side can be implemented using Deno/Koa, flask/Django and similarly the data can also be modelled using the similar idea but with a SQL type DB like PS-SQL or MSSQL.
