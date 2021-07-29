@@ -21,12 +21,12 @@ Here are screenshots of the of the woking application
 
 <p align="center">
 
-  <img alt="login page" src="https://i.ibb.co/W6j3w3h/Screenshot-436.png" width="534" height="300" />
- <img src="https://i.ibb.co/J3F9239/Screenshot-440.png" alt="home page" width="534" height="300" />
- <img src="https://i.ibb.co/bspb3sx/Screenshot-433.png" alt="rich editor" width="534" height="300" />
-  <img src="https://i.ibb.co/dKVYsHK/Screenshot-435.png" alt="rich editor" width="534" height="300" />
+  <img alt="login page" src="https://i.ibb.co/W6j3w3h/Screenshot-436.png" width="534" height="300" /> <br/>
+ <img src="https://i.ibb.co/J3F9239/Screenshot-440.png" alt="home page" width="534" height="300" /> <br/>
+ <img src="https://i.ibb.co/bspb3sx/Screenshot-433.png" alt="rich editor" width="534" height="300" /> <br/>
+  <img src="https://i.ibb.co/dKVYsHK/Screenshot-435.png" alt="rich editor" width="534" height="300" /> <br/>
 
- <br/>
+ <br/> <br/>
   <img alt="mobile mockup" src="https://i.ibb.co/h7f989W/Screenshot-438.png" width="200" height="356"/> &emsp;
   <img alt="mobile mockup 2" src="https://i.ibb.co/HqJCvq8/Screenshot-439.png" height="356" width="200" />
   <br/>
@@ -90,7 +90,13 @@ The choice to make the comment section anonymous was a deliberate design choice,
 -   Integrations with popular blogging platforms like Medium or dev.to, to import already published articles.
 -   A system to 'like' or upvote potentially useful articles.
 
-Any more suggestions are always welcome in the PRs!
+Any more suggestions are always.
+
+## Author
+-    My website : [My website](https://git-077-rvraj.github.io/Ravi/final.html)
+-    Github : [@git-077-Rvraj]
+-    Linkedin : [Ravi Raj](https://www.linkedin.com/in/ravi-raj-765bba1b7/)
+-    Email : rvraj.0777@gmail.com
 
 
 
