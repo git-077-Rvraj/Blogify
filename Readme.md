@@ -21,10 +21,10 @@ Here are screenshots of the of the woking application
 
 <p align="center">
 
-  <img alt="login page" src="https://i.ibb.co/W6j3w3h/Screenshot-436.png" width="534" height="300" /> <br/>
- <img src="https://i.ibb.co/J3F9239/Screenshot-440.png" alt="home page" width="534" height="300" /> <br/>
- <img src="https://i.ibb.co/bspb3sx/Screenshot-433.png" alt="rich editor" width="534" height="300" /> <br/>
-  <img src="https://i.ibb.co/dKVYsHK/Screenshot-435.png" alt="rich editor" width="534" height="300" /> <br/>
+  <img alt="login page" src="https://i.ibb.co/W6j3w3h/Screenshot-436.png" width="534" height="300" /> 
+ <img src="https://i.ibb.co/J3F9239/Screenshot-440.png" alt="home page" width="534" height="300" />
+ <img src="https://i.ibb.co/bspb3sx/Screenshot-433.png" alt="rich editor" width="534" height="300" /> 
+  <img src="https://i.ibb.co/dKVYsHK/Screenshot-435.png" alt="rich editor" width="534" height="300" /> 
 
  <br/> <br/>
   <img alt="mobile mockup" src="https://i.ibb.co/h7f989W/Screenshot-438.png" width="200" height="356"/> &emsp;
@@ -42,11 +42,11 @@ Here are screenshots of the of the woking application
 -   In order to write a new blog post, the user has to login using one of the social media login options provided. The react-social-login package is being used to provide the       user authentication and authorization.
    
 -   the Mongodb Atlas's cloud service is used for the database service. 
--  
+  
 -   There is no exploitation of data, as the app only requires access to your accounts to fetch your unique ID for authentication/authorization purposes, and no personal             details(except your registred user name on the social account) is used by the application.
 
 -   The frontend of the app is built using React and I have used Bootstrap classes for styling the compnents in addition to my local CSS styles.
--  
+  
 -   Each comment has a unique jdenticon icon to represent the user who commented anonymously
 
 ## Technologies Used
