@@ -90,7 +90,7 @@ The choice to make the comment section anonymous was a deliberate design choice,
 -   Integrations with popular blogging platforms like Medium or dev.to, to import already published articles.
 -   A system to 'like' or upvote potentially useful articles.
 
-Any more suggestions are always.
+Any more suggestions are always welcome.
 
 ## Author
 -    My website : [My website](https://git-077-rvraj.github.io/Ravi/final.html)
@@ -100,4 +100,3 @@ Any more suggestions are always.
 
 
 
-It can be noted that React can be swapped out in favor of any other popular frontend framework like Vue, Angular, Svelte or Ember. The server side can be implemented using Deno/Koa, flask/Django and similarly the data can also be modelled using the similar idea but with a SQL type DB like PS-SQL or MSSQL.
