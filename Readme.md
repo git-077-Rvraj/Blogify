@@ -21,12 +21,7 @@ Here are screenshots of the of the woking application
 
 <p align="center">
 
- <a href="https://ibb.co/QftcRcg"><img src="https://i.ibb.co/W6j3w3h/Screenshot-436.png" alt="Screenshot-436" border="0"></a>
-    <a href="https://ibb.co/mNF3tN3"><img src="https://i.ibb.co/J3F9239/Screenshot-440.png" alt="Screenshot-440" border="0"></a>
-    <a href="https://ibb.co/D93rb9N"><img src="https://i.ibb.co/bspb3sx/Screenshot-433.png" alt="Screenshot-433" border="0"></a>
-    <a href="https://ibb.co/pXMF6kX"><img src="https://i.ibb.co/dKVYsHK/Screenshot-435.png" alt="Screenshot-435" border="0"></a>
-    <a href="https://ibb.co/5MF4c48"><img src="https://i.ibb.co/h7f989W/Screenshot-438.png" alt="Screenshot-438" border="0"></a>
-    <a href="https://ibb.co/QM5kBMw"><img src="https://i.ibb.co/HqJCvq8/Screenshot-439.png" alt="Screenshot-439" border="0"></a>
+  
   
 </p>
 
